@@ -7,3 +7,5 @@ public class practice1 {
 
 
 // nasillar efenim
+
+//iyiyiz
